@@ -1,0 +1,2 @@
+model_checkpoint_path: "/Users/avisheksarkar/Desktop/new1/model2/new_test_model.ckpt"
+all_model_checkpoint_paths: "/Users/avisheksarkar/Desktop/new1/model2/new_test_model.ckpt"

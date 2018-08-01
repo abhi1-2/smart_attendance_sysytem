@@ -1,0 +1,45 @@
+{
+  "Variable": {
+    "filename": "Variable",
+    "shape": [
+      128,
+      80
+    ]
+  },
+  "Variable_1": {
+    "filename": "Variable_1",
+    "shape": [
+      80
+    ]
+  },
+  "Variable_2": {
+    "filename": "Variable_2",
+    "shape": [
+      80,
+      50
+    ]
+  },
+  "Variable_3": {
+    "filename": "Variable_3",
+    "shape": [
+      50
+    ]
+  },
+  "Variable_4": {
+    "filename": "Variable_4",
+    "shape": [
+      50,
+      5
+    ]
+  },
+  "Variable_5": {
+    "filename": "Variable_5",
+    "shape": [
+      5
+    ]
+  },
+  "Variable_6": {
+    "filename": "Variable_6",
+    "shape": []
+  }
+}
